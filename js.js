@@ -37,7 +37,7 @@ function randomQuestionData (DICTIONARY) {
   var words = $.extend(true, [], DICTIONARY);
 
   var wordsToUse = words.filter(function(word) {
-    return word.chapter <= $('#chapterSelect').val();
+    return word.chapter <= Number($('#chapterSelect').val());
   }); 
 
   var questionLang = Math.random() < 0.5 ? 'greek' : 'english';
@@ -55,8 +55,6 @@ function randomQuestionData (DICTIONARY) {
   var filteredWords = words.filter(function(word) {
     return word.type == randomWord.item.type;
   });
-
-  console.log(filteredWords);
 
   question.distractors = [];
   for (i = 0; i < CONFIG.options - 1; i++) {

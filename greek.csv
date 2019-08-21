@@ -2,7 +2,7 @@
 ὁ Ἀβραάμ,Abraham,1,name
 ἀμήν,"amen, truly",1,other
 ὁ Δαυίδ,David,1,name
-ὁ ῥαββί,rabbi,1,name
+ὁ ῥαββί,rabbi,1,noun
 ὁ Ἰακώβ,Jacob,1,name
 ὁ Ἰσραήλ,Israel,1,name
 ὁ Ἰωσήφ,Joseph,1,name
@@ -42,7 +42,7 @@
 ἡ ἀγάπη,love,3,noun
 ἡ ἀδελφή,sister,3,noun
 ἡ ἀρχή,beginning,3,noun
-"γῆς, ἡ γῆ","earth, soil, land",3,noun
+"ἡ γῆ","earth, soil, land",3,noun
 ἡ ζωή,life,3,noun
 ἡ φωνή,"sound, voice",3,noun
 ἡ ψυχή,"soul, self",3,noun
