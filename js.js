@@ -48,12 +48,9 @@ function randomQuestionData (DICTIONARY) {
   var randomWord = randomItem(wordsToUse);
   question.word = randomWord.item[questionLang];
   question.translation = randomWord.item[optionLang];
-  wordsToUse.splice (randomWord.index, 1);
-
-  console.log(randomWord);
 
   var filteredWords = words.filter(function(word) {
-    return word.type == randomWord.item.type;
+    return (word.type == randomWord.item.type && word.greek != randomWord.item.greek);
   });
 
   question.distractors = [];
