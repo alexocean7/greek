@@ -1,0 +1,603 @@
+greek,english,chapter
+"ὁ Ἀβραάμ","Abraham",1
+"ἀμήν","amen, truly",1
+"ὁ Δαυίδ","David",1
+"ὁ ῥαββί","rabbi",1
+"ὁ Ἰακώβ","Jacob",1
+"ὁ Ἰσραήλ","Israel",1
+"ὁ Ἰωσήφ","Joseph",1
+"καί","and",1
+"ἄγω","I lead, bring",2
+"ἀκούω","I hear, listen to",2
+"βάλλω","I throw",2
+"βλέπω","I see, watch",2
+"διδάσκω","I teach",2
+"ἔχω","I have, hold",2
+"λαμβάνω","I take, receive",2
+"λέγω","I say, speak, tell",2
+"λύω","I untie",2
+"ζητέω","I seek",2
+"καλέω","I call",2
+"λαλέω","I speak, say",2
+"ποιέω","I do, make",2
+"τηρέω","I keep",2
+"φιλέω","I love, like",2
+"ἄγγελος ","messenger, angel",2
+"ἀδελφός ","brother",2
+"ἄρτος ","bread",2
+"δοῦλος ","slave",2
+"θεός ","god, God",2
+"κόσμος ","world",2
+"κύριος ","lord, master, sir",2
+"λόγος ","word, message",2
+"νόμος ","law",2
+"οἶκος ","household, house",2
+"οὐρανός ","heaven",2
+"ὄχλος ","crowd",2
+"υἱός ","son",2
+"Χριστός ","Christ, Messiah",2
+"ὁ, ἡ, τό","the",2
+"ἄνθρωπος ","human being, person",2
+"λαός ","people (as in ‘a people’ or ‘a nation’)",2
+"ἡ ἀγάπη","love",3
+"ἡ ἀδελφή","sister",3
+"ἡ ἀρχή","beginning",3
+"γῆς, ἡ γῆ","earth, soil, land",3
+"ἡ ζωή","life",3
+"ἡ φωνή","sound, voice",3
+"ἡ ψυχή","soul, self",3
+"ἡ ἁμαρτία","sin",3
+"ἡ βασιλεία","reign, kingship, kingom",3
+"ἡ ἐκκλησία","assembly (later ‘church’)",3
+"ἡ ἡμέρα","day",3
+"ἡ καρδία","heart",3
+"Μαρία","Mary",3
+"Μαριάμ","Mary",3
+"ἡ οἰκία","house, household",3
+"ἡ ὥρα","hour, occasion",3
+"ἡ δόξα","splendour, glory",3
+"ἡ θάλασσα","sea, lake",3
+"τό βιβλίον","book, scroll",3
+"τό δαιμόνιον","demon",3
+"τό ἔργον","work, deed",3
+"εὐαγγέλιον","good news, gospel",3
+"τό ἱερόν","temple",3
+"τό πλοῖον","boat",3
+"τό πρόσωπον","face",3
+"τό σάββατον","Sabbath",3
+"τό σημεῖον","sign, miracle",3
+"τό τέκνον","child",3
+"αὐτός","he, she, it, they",3
+"Ἰησοῦς","Jesus",3
+"ὁ Παῦλος ","Paul",3
+"ὁ Πέτρος ","Peter",3
+"πιστεύω","(+ dat.) I believe (in), trust, have faith in",3
+"ἀπό","(+gen.) (away) from",4
+"διά","(+acc.) because of; (+gen.) through",4
+"εἰς","(+acc.) into",4
+"ἐκ","(+gen.) (out of) from",4
+"ἐν","(+dat.) in",4
+"ἐνώπιον","(+gen.) in front of, in the presence of",4
+"ἔξω","(+gen.) outside",4
+"ἐπί","(+acc.) onto; (+gen.) on, in the time of; (+dat.) on, in, on the basis of",4
+"ἕως","(+gen.) until",4
+"κατά","(+acc.) according to; (+gen.) against",4
+"μετά","(+acc.) after; (+gen.) with",4
+"παρά","(+acc.) alongside; (+gen.) from beside; (+dat.) beside",4
+"περί","(+acc.) around, approximately; (+gen.) concerning, about",4
+"πρό","(+gen.) before",4
+"πρός","(+acc.) to, towards",4
+"σύν","(+dat.) together with",4
+"ὑπέρ","(+acc.) above; (+gen.) on behalf of",4
+"ὑπό","(+acc.) under; (+gen.) by, at the hands of",4
+"ἀναβλέπω","I look up, receive sight ",4
+"ἀπολύω","I set free, divorce, dismiss",4
+"ἐκβάλλω","I drive out, cast out, throw out",4
+"ἐπικαλέω","I call upon, name",4
+"κατοικέω","I dwell, inhabit, live",4
+"παρακαλέω","I exhort, request, comfort, encourage",4
+"παραλαμβάνω","I take, receive",4
+"περιπατέω","I walk about, live",4
+"προσκυνέω","(+dat.) I worship",4
+"συνάγω","I gather, bring together",4
+"ὑπάγω","I depart",4
+"πῶς","how?",4
+"ποῦ","where?",4
+"οὐ, οὐκ, οὐχ","not ",4
+"ἀγαθός ","good",5
+"ἀγαπητός ","beloved",5
+"ἅγιος ","holy",5
+"δίκαιος ","upright, just",5
+"ἕκαστος ","each",5
+"ἕτερος ","another, different",5
+"ἴδιος ","one’s own",5
+"Ἰουδαῖος ","Jewish, a Jew",5
+"κακός ","bad",5
+"καλός ","beautiful, good",5
+"καινός ","new",5
+"μακάριος ","blessed, happy",5
+"μόνος ","only, alone",5
+"νεκρός ","dead",5
+"ὁσός","as/how great, as/how much",5
+"πιστός ","faithful, believing",5
+"πονηρός ","evil, wicked",5
+"τυφλός ","blind",5
+"μέγα μέγας μεγάλη","large, great",5
+"πολύ πολύς πολλή","much, many",5
+"Γαλιλαία","Galilee",5
+"ἡ εἰρήνη","peace",5
+"ἡ κεφαλή","head",5
+"ἡ συναγωγή","synagogue",5
+"ἀλλά","but",5
+"εἰ","if",5
+"ἤ","or",5
+"ὡς","as, like",5
+"ὁ καιρός ","time, season",5
+"εἰμί","I am",5
+"τά Ἱεροσόλυμα","Jerusalem",5
+"ἡ Ἰερουσαλήμ","Jerusalem",5
+"αἰώνιος","eternal",5
+"ἀνοίγω","I open",6
+"ἀποκαλύπτω","I reveal, uncover",6
+"βαπτίζω","I baptise, dip",6
+"γράφω","I write",6
+"διώκω","I persecute, persue",6
+"δοξάζω","I praise, glorify",6
+"κηρύσσω","I proclaim, preach",6
+"αἰτέω","I ask (for)",6
+"κράζω","I cry out",6
+"πέμπω","I send",6
+"πείθω","I convince, persuade",6
+"σῴζω","I save, rescue, heal",6
+"ὑπάρχω","I exist, am",6
+"εὐλογέω","I speak well of, bless, praise",6
+"εὐχαριστέω","I give thanks",6
+"οἰκοδομέω","I build (up) ",6
+"προσέχω","(+dat.) I take heed of, pay attention to",6
+"ἄρτι","now, just now",6
+"ἔτι","still, yet",6
+"ἤδη","already",6
+"νῦν","now",6
+"ὅτε","when",6
+"οὐκέτι","no longer",6
+"οὔπω","not yet",6
+"πάλιν","back, again",6
+"πάντοτε","always",6
+"ποτέ","once (at some time)",6
+"σήμερον","today",6
+"τότε","then",6
+"δύο","two ",6
+"ὁ Τιμόθεος ","Timonthy",6
+"ὁ τόπος ","place",6
+"ἡ δικαιοσύνη","righteousness",7
+"ἡ ἐντολή","commandment",7
+"ἡ ἐξουσία","authority",7
+"ἡ παραβολή","parable",7
+"ἡ παρρησία","outspokenness, boldness",7
+"ἡ χαρά","joy",7
+"ὁ ἀπόστολος","apostle",7
+"ὁ θάνατος","death",7
+"ὁ ὀφθαλμός","eye",7
+"ὁ Φαρισαῖος","Pharisee",7
+"τό θηρίον","animal, beast",7
+"τό ἱμάτιον","garment",7
+"τό μνημεῖον","tomb, monument",7
+"τό πρόβατον","sheep",7
+"μή","not",7
+"μηδέ","and not, but not",7
+"μηκέτι","no longer",7
+"μήτε","and not, nor",7
+"ἀκολουθέω","I follow",7
+"ἀνάγω","I lead up, restore",7
+"δέω","I bind, tie up",7
+"δοκέω","I think, seem",7
+"ἐλεέω","I have mercy on, pity",7
+"θέλω","I wish, want",7
+"θεωρέω","I look at",7
+"καταργέω","I make ineffective, abolish",7
+"μαρτυρέω","I bear witness, testify",7
+"μέλλω","I intend, am about (to)",7
+"μετανοέω","I repent, change my mind",7
+"δεῖ","it is necessary",7
+"ἔξεστι","it is permitted",7
+"ὀπίσω","behind",7
+"ἔρχομαι","I come, go",8
+"ἀπέρχομαι","I depart, go away",8
+"διέρχομαι","I cross over",8
+"εἰσέρχομαι","I go into, enter",8
+"ἐξέρχομαι","I go out, go away",8
+"παρέρχομαι","I go by, pass by",8
+"προσέρχομαι","I come to, go to, approach",8
+"συνέρχομαι","I come together",8
+"ἅπτομαι","I touch",8
+"ἀρνέομαι","I refuse, deny",8
+"ἄρχομαι","I begin",8
+"ἀσπάζομαι","I greet",8
+"δέχομαι","I receive",8
+"ἐργάζομαι","I work",8
+"εὐαγγελίζομαι","I proclaim the good news",8
+"λογίζομαι","I calculate, consider",8
+"προσεύχομαι","I pray",8
+"προσκαλέομαι","I summon",8
+"ῥύομαι","I rescue",8
+"ὁ Ἡρῴδης","Herod",8
+"ὁ Ἰωάννης","John",8
+"ὁ μαθητής","disciple",8
+"ὁ προφήτης","prophet",8
+"ὁ στρατιώτης","soldier",8
+"ὁ ὑπηρέτης","servant",8
+"ὁ Βαρναβᾶς","Barnabas",8
+"ὁ Ἰούδας","Judah, Judas",8
+"ὁ Σατανᾶς","Satan",8
+"ὁ Ἡλίας","Elijah",8
+"ἡ Αἴγυπτος","Egypt",8
+"ἡ ἔρημος","wilderness, desolate land",8
+"ἡ ὁδός","way, road",8
+"ἀλλήλων ἀλλήλος","each other, one another",9
+"ἄλλος","other",9
+"ἑαυτοῦ ἑαυτός","himself, herself, itself (reflexive)",9
+"ἡμεῖς ἐγώ","I, we",9
+"ἐκεῖνος","that ",9
+"ἐμαυτοῦ","myself",9
+"ἐμός","my, mine",9
+"κἀγώ","and I",9
+"ὅλος","whole, entire",9
+"αὕτη, τοῦτο οὗτος","this",9
+"ποῖος","of what kind?",9
+"πόσος ","how great, how much?",9
+"σεαυτοῦ","yourself",9
+"σός","your, yours",9
+"ὑμεῖς σύ","you (sing.), you (pl.)",9
+"τοιοῦτος","of such a kind, such",9
+"ἄρα","so",9
+"γάρ","gor",9
+"γέ","indeed",9
+"δέ","but",9
+"διό","therefore",9
+"διότι","because",9
+"εἴτε","if, whether, or",9
+"ἐπεί","since",9
+"μέν","on the one hand",9
+"μήποτε","never",9
+"οὖν","therefore, consequently",9
+"τέ","and, both",9
+"τό ἀρνίον","lamb, sheep",9
+"τό δένδρον","tree",9
+"τό μυστήριον","mystery, secret",9
+"τό ποτήριον","cup",9
+"ἡ ἀλήθεια","truth",10
+"ἀληθινός","true, genuine, real",10
+"ἐγγύς","near",10
+"ἐκεῖ","there (in that place)",10
+"ἐκεῖθεν","from there",10
+"εὐθύς","immediately",10
+"καθώς","just as",10
+"καλῶς","appropriately, well",10
+"ναί","yes, of course",10
+"ὅμοιος","similar, like",10
+"ὁμοίως","likewise",10
+"ὅπου","where",10
+"ἥ, ὅ ὅς","who, which, what",10
+"ὅτι","that, because, or, (marking beginning of speech)",10
+"οὗ","where",10
+"οὐδέ","and not",10
+"οὔτε","neither, nor",10
+"οὕτως","in this manner, thus",10
+"οὐχί","not, no",10
+"πλήν","however, yet",10
+"πόθεν","from where?",10
+"ὧδε","here",10
+"ἔμπροσθεν","(+gen.) in front of",10
+"ἕνεκα","(+gen.) for the sake of",10
+"πέραν","(+gen.) on the other side of",10
+"χωρίς","(+gen.) separate, apart from",10
+"ὁ Πιλᾶτος","Pilate",10
+"ἐγγίζω","I approach, come near",10
+"ἡγέομαι","I lead",10
+"θαυμάζω","I am amazed",10
+"θεραπεύω","I heal",10
+"καθεύδω","I sleep",10
+"ἁμαρτάνω","I do wrong, sin",11
+"ἀποθνῄσκω","I die",11
+"γίνομαι","I become, happen",11
+"παραγίνομαι","I arrive, stand by",11
+"ἐσθίω","I eat",11
+"εὑρίσκω","I find",11
+"καταλείπω","I leave (behind)",11
+"μανθάνω","I learn",11
+"ὁράω","I see",11
+"πάσχω","I suffer",11
+"πίνω","I drink",11
+"πίπτω","I fall (down)",11
+"φέρω","I bear, carry",11
+"προσφέρω","I bring to, offer",11
+"φεύγω","I flee",11
+"ἀπαγγέλλω","I report, announce",11
+"παραγγέλλω","I order",11
+"αἴρω","I take (away), lift up",11
+"ἀποκτείνω","I kill",11
+"ἀποστέλλω","I send (out)",11
+"ἐγείρω","I raise up, wake",11
+"κρίνω","I judge, decide",11
+"μένω","I remain",11
+"ὀφείλω","I owe",11
+"σπείρω","I sow",11
+"χαίρω","I rejoice",11
+"ἀναβαίνω","I go up ",11
+"καταβαίνω","I go down",11
+"γινώσκω","I know",11
+"ἀναγινώσκω","I read",11
+"ἐπιγινώσκω","I recognize",11
+"ἰδού","Look!, Behold!",11
+"ὁ ἀνήρ, ἀνδρός","man (male), husband",12
+"ὁ ἀστήρ, ἀστέρος","star",12
+"ὁ σωτήρ, σωτῆρος","savior",12
+"ὁ αἰών, αἰῶνος","age (long time)",12
+"ὁ ἄρχων, ἄρχοντος","ruler, leader",12
+"ὁ Σίμων, Σίμωνος","Simon",12
+"ἡ γυνή, γυναικός","woman, wife",12
+"ἡ ἐλπίς, ἐλπίδος","hope",12
+"ἡ νύξ, νυκτός","night",12
+"ὁ πούς, ποδός","foot",12
+"ἡ σάρξ, σαρκός","flesh",12
+"ἡ χάρις, χάριτος","grace",12
+"ἡ χείρ, χειρός","hand",12
+"ἡ θυγάτηρ, θυγατρός","daughter",12
+"ἡ μήτηρ, μήτρος","mother",12
+"ὁ πατήρ, πατρός","father, ancestor",12
+"τό πῦρ, πυρός","fire",12
+"τό ὕδωρ, ὕδατος","water",12
+"τό φῶς, φωτός","light",12
+"τό αἷμα, αἷμτος","blood",12
+"τό θέλημα, θέληματος","will",12
+"τό ὄνομα, ὄνοματος","name",12
+"τό πνεῦμα, πνεῦματος","spirit, wind",12
+"τό ῥῆμα, ῥῆματος","word, saying",12
+"τό στόμα, στόματος","mouth",12
+"τό σῶμα, σῶματος","body",12
+"μείζων","greater, larger",12
+"πλείων","more",12
+"τις τι","someone, something ",12
+"τίς τί","who?, which?, what?",12
+"ὅστις ","who",12
+"ὥσπερ","just as",12
+"ἔθνος","nation (pl. Gentiles)",13
+"τό ἔλεος","mercy",13
+"τό ἔτος","year",13
+"τό μέλος","member, part, limb",13
+"τό μέρος","part, share",13
+"τό ὄρος","mountain, hill",13
+"τό πλῆθος","multitude, large amount",13
+"τό σκεῦος","object (pl. property)",13
+"τό σκότος","darkness",13
+"τό τέλος","end, goal",13
+"ὁ ἀρχιερεύς","high priest, chief priest",13
+"ὁ βασιλεύς","king",13
+"ὁ γραμματεύς","scribe, clerk",13
+"ὁ ἱερεύς","priest",13
+"ἡ ἀνάστασις","resurrection",13
+"ἡ γνῶσις","knowledge",13
+"ἡ δύναμις","power, miracle",13
+"ἡ θλῖψις","suffering, oppression",13
+"ἡ κρίσις","judgement",13
+"ἡ παράκλησις","encouragement",13
+"ἡ πίστις","faith",13
+"ἡ πόλις","city, town",13
+"ἡ συνείδησις","conscience",13
+"ἀληθής","true, truthful, genuine",13
+"ἀσθενής","weak, sick",13
+"πᾶσα, πᾶν πᾶς","all, every, whole",13
+"ἅπας","all, every",13
+"εἷς μία ἑν","one, a single",13
+"οὐδείς","no one, nothing",13
+"μηδείς","no one, nothing",13
+"ὁ Μωϋσῆς","Moses",13
+"νοῦ, ὁ νοῦς","mind",13
+"ἁμαρτωλός","sinner",14
+"ὁ διδάσκαλος ","teacher",14
+"ὁ θρόνος","throne",14
+"ὁ Ἰάκωβος","James",14
+"ὁ λίθος","stone",14
+"πρεσβύτερος","old person, elder",14
+"ἀμπελῶνος, ὁ ἀμπελών","vineyard",14
+"εἰκόνος, ἡ εἰκών","image",14
+"Ἕλληνος, ὁ Ἕλλην","Greek",14
+"Καῖσαρος, ὁ Καῖσαρ","Caesar",14
+"κρίματος, τό κρίμα","judgement",14
+"ὠτός, τό οὖς","ear",14
+"παιδός, ὁ παῖς","child, servant",14
+"τό παιδίον","child, infant",14
+"σπέρμτος, τό σπέρμα","seed",14
+"τό πάσχα","Passover",14
+"ἀγοράζω","I buy",14
+"βλασφημέω","I blaspheme",14
+"διακονέω","I serve",14
+"διαλογίζομαι","I consider, argue, discuss",14
+"ἐλπίζω","I hope",14
+"ἑτοιμάζω","I prepare, make ready",14
+"κρατέω","I grasp, arrest",14
+"μισέω","I hate",14
+"πειράζω","I test, tempt",14
+"πράσσω","I do",14
+"προφητεύω","I prophesy",14
+"σκανδαλίζω","I cause to fall/sin",14
+"ὑποτάσσω","I subject",14
+"φυλάσσω","I guard",14
+"φωνέω","I call (out)",14
+"χαρίζομαι","I give freely",14
+"ὁ διάβολος","the slanderer, the devil",15
+"ὁ καρπός","fruit",15
+"ὁ ναός","sanctuary, shrine, temple",15
+"ὁ Φίλιππος","Philip",15
+"ὁ φόβος","fear",15
+"ὁ χρόνος","time (period of)",15
+"ἀποκρίνομαι","I answer",15
+"βούλομαι","I wish",15
+"πορεύομαι","I go",15
+"ἐκπορεύομαι","I go out",15
+"φοβέομαι","I am afraid, fear",15
+"ἁγιάζω","I make holy",15
+"ἀσθενέω","I am weak, sick",15
+"βαστάζω","I take up",15
+"γαμέω","I marry",15
+"γνωρίζω","I make known",15
+"δουλεύω","I am a slave",15
+"ἐκχέω","I pour out",15
+"ἐνδύω","I dress",15
+"ἐπιστρέφω","I turn (back)",15
+"ἥκω","I have come, am present",15
+"ἰσχύω","I am strong",15
+"κελεύω","I command",15
+"κλαίω","I weep",15
+"κωλύω","I hinder",15
+"λυπέω","I grieve, pain",15
+"ὀμνύω","I swear, take an oath",15
+"περισσεύω","I exceed",15
+"τελέω","I finish, complete",15
+"ὑποστρέφω","I turn back, return",15
+"φαίνω","I shine, appear",15
+"φρονέω","I ponder",15
+"ἡ ἀκοή","fame, report",16
+"ἡ ἀσθένεια","weakness, disease",16
+"ἡ διδαχή","teaching (act and content)",16
+"ἡ ἑορτή","festival",16
+"ἡ ἐπιστολή","letter (correspondence)",16
+"ἡ θυσία","offering, sacrifice",16
+"ἡ κώμη","village",16
+"ἡ μάχαιρα","sword",16
+"ἡ νεφέλη","cloud",16
+"ἡ παρουσία","presense, coming",16
+"ἡ περιτομή","circumcision",16
+"ἡ πορνεία","sexual immorality",16
+"ἡ προσευχή","prayer",16
+"ἡ ὑπομονή","patience",16
+"ἡ φυλή","tribe, nation",16
+"ἡ χήρα","widow",16
+"ἡ χώρα","country(side)",16
+"τρεῖς","three",16
+"τέσσαρες","four",16
+"πέντε","five",16
+"ἕξ","six",16
+"ἑπτά","seven",16
+"ὀκτώ","eight",16
+"ἐννέα","nine",16
+"δέκα","ten",16
+"δώδεκα","twelve",16
+"ἑκατόν","one hundred",16
+"χιλιάς","one thousand",16
+"πρῶτος","first",16
+"δεύτερος","second",16
+"τρίτος","third",16
+"οὐαί","woe",16
+"ἄν","conditional particle",17
+"ἄχρι","until",17
+"ἵνα","in order that",17
+"ὅπως","in order that",17
+"ὅταν","whenever",17
+"ἐάν","alternative for ἄν ",17
+"ὁ ἀγρός","field",17
+"ὁ ἄνεμος","wind",17
+"ὁ διάκονος","servant",17
+"ἐχθρός","enemy",17
+"ὁ ἥλιος","sun",17
+"ὁ οἶνος","wine",17
+"ἀναιρέω","I take away, kill",17
+"κατηγορέω","I accuse",17
+"ὁμολογέω","I promise, confess",17
+"πτωχός","poor",17
+"ἡ γενεά","family, generation",17
+"ἡ γλῶσσα","tongue, language",17
+"ἡ γραφή","writing, scripture",17
+"ἡ διαθήκη","covenant, last will and testament",17
+"ἡ διακονία","service, ministry",17
+"ἡ ἐπαγγελία","promise",17
+"ἡ ἐπιθυμία","desire",17
+"ἡ θύρα","door",17
+"ἡ Ἰουδαία","Judea",17
+"ἡ μαρτυρία","testamony, witness",17
+"ἡ ὀργή","anger, wrath",17
+"ἡ σοφία","wisdom",17
+"ἡ σωτηρία","salvation",17
+"ἡ τιμή","price, value, honour",17
+"ἡ φυλακή","watch (guards), prison",17
+"ἡ χρεία","need",17
+"ἄξιος","worthy",18
+"δεξιός","right (hand)",18
+"δυνατός","powerful, capable, able",18
+"ἐλεύθερος","free",18
+"ἔσχατος","last, least",18
+"ἱκανός","sufficient",18
+"ἰσχυρός","strong",18
+"λευκός","white, bright",18
+"λοιπός","remaining",18
+"μέσος","middle",18
+"νέος","new, young",18
+"ὀλίγος","small, little (pl. few)",18
+"πλούσιος","rich",18
+"πνευματικός","spiritual",18
+"φίλος","loved, friendly, friend",18
+"μάρτυρος, ὁ μάρτυς","witness",18
+"ὁ μισθός","pay, wages",18
+"ὁ σταυρός","cross",18
+"αὐξάνω","I grow",18
+"καθαρίζω","I make/declare clean",18
+"καθίζω","I cause to sit down",18
+"δύναμαι","I can, I am able",18
+"κάθημαι","I sit (down)",18
+"κεῖμαι","I lie, recline",18
+"οἶδα","I know",18
+"πάρειμι","I am present",18
+"ὥστε","with the result that ",18
+"ἀδικέω","I do wrong",18
+"ἡ ἀδικία","wrongdoing",18
+"καθαρός","clean, pure",18
+"ἀκάθαρτος","impure, unclean",18
+"ἄπιστος","unbelieving, faithless",18
+"δίδωμι","I give",19
+"ἀποδίδωμι","I give away",19
+"παραδίδωμι","I hand over, entrust",19
+"ἵστημι","I cause to stand, stand",19
+"ἀνίστημι","I raise",19
+"παρίστημι","I place beside",19
+"τίθημι","I put, place",19
+"ἐπιτίθημι","I put, place upon",19
+"ἀφίημι","I leave, forgive, dismiss",19
+"συνίημι","I understand",19
+"ἀπόλλυμι","I ruin, destroy",19
+"δείκνυμι","I point out, show",19
+"πίμπλημι","I fulfil",19
+"φημί","I say",19
+"δικαιόω","I justify",19
+"πληρόω","I fulfil, fill, complete",19
+"σταυρόω","I crucify",19
+"τελειόω","I accomplish, complete",19
+"φανερόω","I reveal, make known",19
+"ἀγαπάω","I love",19
+"γεννάω","I bear (beget)",19
+"διψάω","I thirst (for)",19
+"ἐρωτάω","I ask",19
+"ἐπερωτάω","I ask (for)",19
+"ζάω","I live",19
+"ἰάομαι","I heal",19
+"κοπιάω","I labour",19
+"νικάω","I overcome",19
+"πεινάω","I hunger",19
+"πλανάω","I deceive, lead astray",19
+"τιμάω","I honour, value",19
+"ἐπιτιμάω","I rebuke",19
+"ἀληθῶς","truly",20
+"ἐλάχιστος","smallest",20
+"εὖ","well",20
+"κρεῖσσον","better",20
+"μάλιστα","most of all",20
+"μᾶλλον","more, rather",20
+"μικρόν","a little, a short time",20
+"μικρός","small",20
+"χεῖρον","worse",20
+"τό ζῷον","living thing",20
+"τό θυσιαστήριον","altar",20
+"ποιμένος, ὁ ποιμήν","shepherd",20
+"θεάομαι","I see, look at",20
+"καυχάομαι","I boast",20
+"μιμνῄσκομαι","I remember",20
+"νίπτω","I wash",20

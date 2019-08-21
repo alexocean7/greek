@@ -1,0 +1,39 @@
+#question {
+  border: 1px solid rgba(0,0,0,.125);
+  border-radius: .25rem;
+  margin-top:20px;
+}
+
+#questionDiv {
+  text-align: center;
+  font-size: xx-large;
+  padding: 25px;
+  background-color: #f8f9fa;
+}
+
+#options, #feedback {
+  padding: 25px;
+  background-color: #fff;
+}
+
+.optionDiv {
+  margin: 20px 0px;
+  text-align: center;
+}
+
+body {
+  background-color: #6c757d;
+  color: #fff;
+}
+
+main {
+  color: #212529;
+}
+
+body.incorrect {
+  background-color: #dc3545;
+}
+
+body.correct {
+  background-color: #28a745;
+}
