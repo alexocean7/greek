@@ -1,5 +1,5 @@
 var CONFIG = {
-  options: 10,
+  options: 5,
   correctfeedbackTimeoutSeconds: 2,
-  incorrectfeedbackTimeoutSeconds: 5
+  incorrectfeedbackTimeoutSeconds: 10
 };

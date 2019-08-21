@@ -9,6 +9,9 @@ $(document).ready(function() {
       presentQuestion(DICTIONARY);
     }
   );
+  $('#chapterSelect').click(function(){
+    presentQuestion(DICTIONARY);
+  });
 });
 
 function getData (fileName, callback){
@@ -33,21 +36,33 @@ function presentQuestion (DICTIONARY){
 function randomQuestionData (DICTIONARY) {
   var words = $.extend(true, [], DICTIONARY);
 
+  var wordsToUse = words.filter(function(word) {
+    return word.chapter <= $('#chapterSelect').val();
+  }); 
+
   var questionLang = Math.random() < 0.5 ? 'greek' : 'english';
   var optionLang = questionLang == 'greek' ? 'english' : 'greek';
 
   var question = {}
 
-  var randomWord = randomItem(words);
+  var randomWord = randomItem(wordsToUse);
   question.word = randomWord.item[questionLang];
   question.translation = randomWord.item[optionLang];
-  words.splice (randomWord.index, 1);
+  wordsToUse.splice (randomWord.index, 1);
+
+  console.log(randomWord);
+
+  var filteredWords = words.filter(function(word) {
+    return word.type == randomWord.item.type;
+  });
+
+  console.log(filteredWords);
 
   question.distractors = [];
   for (i = 0; i < CONFIG.options - 1; i++) {
-    var randomWord = randomItem(words);
+    var randomWord = randomItem(filteredWords);
     question.distractors.push(randomWord.item[optionLang]);
-    words.splice (randomWord.index, 1);
+    filteredWords.splice (randomWord.index, 1);
   }
 
   return question;
@@ -60,9 +75,9 @@ function buildQuestion (data){
 
   var optionsHTML = [];
   var optionsRow = $('<div class="row" id="options"></div>');
-  optionsHTML.push($('<div class="col-md optionDiv"><button type="button" class="btn btn-outline-primary btn-lg" data-correct="true">' + data.translation + '</button></div>'));
+  optionsHTML.push($('<div class="col-xl-2 col-md-3 col-sm-6 optionDiv"><button type="button" class="btn btn-outline-primary btn-lg" data-correct="true">' + data.translation + '</button></div>'));
   $.each(data.distractors, function(index, distractor){
-    optionsHTML.push($('<div class="col-md optionDiv"><button type="button" class="btn btn-outline-primary btn-lg" data-correct="false">' + distractor + '</button></div>'));
+    optionsHTML.push($('<div class="col-xl-2 col-md-3 col-sm-6 optionDiv"><button type="button" class="btn btn-outline-primary btn-lg" data-correct="false">' + distractor + '</button></div>'));
   });
   shuffle(optionsHTML);
   $.each(optionsHTML, function(index, optionHTML){
