@@ -51,8 +51,8 @@
 ἡ ἐκκλησία,assembly (later ‘church’),3,noun
 ἡ ἡμέρα,day,3,noun
 ἡ καρδία,heart,3,noun
-Μαρία,Mary,3,noun
-Μαριάμ,Mary,3,noun
+Μαρία,Mary,3,name
+Μαριάμ,Mary,3,name
 ἡ οἰκία,"house, household",3,noun
 ἡ ὥρα,"hour, occasion",3,noun
 ἡ δόξα,"splendour, glory",3,noun
@@ -158,7 +158,7 @@
 ἤδη,already,6,time
 νῦν,now,6,time
 ὅτε,when,6,time
-οὐκέτι,no longer,6,time
+"οὐκέτι, μηκέτι",no longer,6,time
 οὔπω,not yet,6,time
 πάλιν,"back, again",6,time
 πάντοτε,always,6,time
@@ -184,7 +184,6 @@
 τό πρόβατον,sheep,7,noun
 μή,not,7,conjunction
 μηδέ,"and not, but not",7,conjunction
-μηκέτι,no longer,7,time
 μήτε,"and not, nor",7,conjunction
 ἀκολουθέω,I follow,7,verb
 ἀνάγω,"I lead up, restore",7,verb

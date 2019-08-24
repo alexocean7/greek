@@ -9,7 +9,7 @@ $(document).ready(function() {
       presentQuestion(DICTIONARY);
     }
   );
-  $('#chapterSelect').click(function(){
+  $('#chapterSelect').change(function(){
     presentQuestion(DICTIONARY);
   });
 });
