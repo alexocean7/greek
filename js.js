@@ -3,7 +3,7 @@ var originalBackgroundColor = $('body').css('background-color');
 
 $(document).ready(function() {
   getData(
-    'greek.csv',
+    'spanish.csv',
     function(words){
       DICTIONARY = words;
       presentQuestion(DICTIONARY);
@@ -40,8 +40,8 @@ function randomQuestionData (DICTIONARY) {
     return word.chapter <= Number($('#chapterSelect').val());
   }); 
 
-  var questionLang = Math.random() < 0.5 ? 'greek' : 'english';
-  var optionLang = questionLang == 'greek' ? 'english' : 'greek';
+  var questionLang = Math.random() < 0.5 ? 'spanish' : 'english';
+  var optionLang = questionLang == 'spanish' ? 'english' : 'spanish';
 
   var question = {}
 
@@ -50,7 +50,7 @@ function randomQuestionData (DICTIONARY) {
   question.translation = randomWord.item[optionLang];
 
   var filteredWords = words.filter(function(word) {
-    return (word.type == randomWord.item.type && word.greek != randomWord.item.greek);
+    return (word.type == randomWord.item.type && word.spanish != randomWord.item.spanish);
   });
 
   question.distractors = [];
